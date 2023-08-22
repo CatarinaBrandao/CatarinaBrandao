@@ -27,4 +27,4 @@
  <a href="https://www.linkedin.com/in/catarinasbrandao/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>   
 </div>
 
-![Snake animation](https://github.com/CatarinaBrandao/CatarinaBrandao/blob/output/github-contribution-grid-snake.svg)
+
