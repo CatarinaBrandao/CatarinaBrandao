@@ -7,7 +7,6 @@
 
   <div>
     <a href="https://github.com/CatarinaBrandao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatarinaBrandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cachebust=1"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaBrandao&layout=compact&theme=dracula&cachebust=1"/>
   </div>
 
